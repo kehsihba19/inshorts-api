@@ -1,4 +1,4 @@
-# Inshorts News API [Unofficial]
+# Inshorts News API 
 ---
 This API is capable of fetching news contents from various sources as gathered by Inshorts app.
 
