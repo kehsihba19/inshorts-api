@@ -1,27 +1,38 @@
 # Inshorts News API 
 ---
-This API is capable of fetching news contents from various sources as gathered by Inshorts app.
+This API is capable of fetching news contents from various sources as gathered by Inshorts app and website.
 
 ---
 ### Show some :heart: and :star: the repo to support the project
 ---
-
 ## News Categories
 
 This API supports category wise news. Here is a complete list of all categories.
 
-1. all
-2. national //Indian News only
-3. business
-4. sports
-5. world
-6. politics
-7. technology
-8. startup
-9. entertainment
-10. miscellaneous
-11. science
-12. automobile
+| Sl. No.  | Category | Endpoints |
+| --- | --- | --- |
+| 1 | All | /all | 
+| 2 | Automobile | /automobile |
+| 3 | Business | /business | 
+| 4 | Entertainment | /entertainment | 
+| 5 | National | /national | 
+| 6 | Politics | /politics | 
+| 7 | Science | /science | 
+| 8 | Sports | /sports | 
+| 9 | Startups | /startup |
+| 10 | Technology | /technology | 
+| 11 | World | /world | 
+
+---
+---
+## Installation
+
+Refer to requirements.txt file for all the packages needed.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install python packages.
+
+```bash
+pip install package_name
+```
 
 ---
 
@@ -56,7 +67,12 @@ The response JSON Object looks something like this -
     ],
 }
 ```
+---
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
 
 #### Star the Repo in case you liked it :)
 
-# © [kehsihba19](https://bit.ly/kehsihba19)
+### © [kehsihba19](https://bit.ly/kehsihba19)
