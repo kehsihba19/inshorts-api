@@ -1,8 +1,8 @@
 # Inshorts News API 
----
+
 This API is capable of fetching news contents from various sources as gathered by Inshorts app and website.
 
----
+
 ### Show some :heart: and :star: the repo to support the project
 ---
 ## News Categories
@@ -23,7 +23,6 @@ This API supports category wise news. Here is a complete list of all categories.
 | 10 | Technology | /technology | 
 | 11 | World | /world | 
 
----
 ---
 ## Installation
 
