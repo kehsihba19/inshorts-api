@@ -72,6 +72,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-#### Star the Repo in case you liked it :)
+
+### Show some :heart: and :star: the repo in case you liked it :)
 
 ### © [kehsihba19](https://bit.ly/kehsihba19)
