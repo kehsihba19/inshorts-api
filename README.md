@@ -60,7 +60,7 @@ The response JSON Object looks something like this -
       "images":"https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2020/08_aug/13_thu/img_1597332122442_79.jpg?",
       "inshorts-link":"https://inshorts.com/en/news/israel-to-suspend-annexation-of-west-bank-establish-diplomatic-ties-with-uae-1597334118265",
       "read-more":"https://www.rt.com/news/497940-israel-uae-deal-trump-palestine/amp/?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts ",
-      "time":"09:25 pm on 13 Aug",
+      "time":"2020-08-13T15:55:18.000Z",
       "title":"Israel to suspend annexation of West Bank, establish diplomatic ties with UAE"
     },
     ],

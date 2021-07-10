@@ -17,7 +17,7 @@ def getdata(value):
 			dic["decription"]=x[i].find('div',itemprop="articleBody").text
 			dic["images"]=x[i].find('div', class_="news-card-image")['style'].split("url(")[1].split(")")[0].replace("'",'')
 			dic["author"]=x[i].find('span',class_='author').text
-			dic["time"]=x[i].find('div', class_="news-card-author-time news-card-author-time-in-content").text.splitlines(2)[2].replace("      ","").rstrip()
+			dic["time"]=x[i].find('span', class_="time").attrs["content"]
 			dic["inshorts-link"]=x[i].find('span',content="")['itemid']
 			if(x[i].find('a', class_="source")==None):
 				dic["read-more"]="None"
